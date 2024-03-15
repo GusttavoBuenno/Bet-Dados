@@ -26,3 +26,7 @@ Melhorias Futuras
 Implementar tratamento de erros mais robusto, incluindo gerenciamento de exceções para conexão ao banco de dados e leitura do arquivo CSV.
 Adicionar funcionalidades para permitir a seleção de diferentes arquivos CSV e bancos de dados.
 Aprimorar a interface gráfica com mais recursos de personalização e interação.
+
+
+
+![image](https://github.com/GusttavoBuenno/Bet-Dados/assets/97835681/e2dc8cfc-7033-45a0-bc61-57e6ceb9c140)
