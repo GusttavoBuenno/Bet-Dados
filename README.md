@@ -1,4 +1,4 @@
- Relatório de Pagamentos de Afiliados<
+ Relatório de Pagamentos de Afiliados
 Este programa foi desenvolvido para calcular os pagamentos de afiliados com base nas apostas dos clientes registradas em um banco de dados PostgreSQL e nos valores de pagamento fornecidos em um arquivo CSV. 
 O resultado é apresentado em uma interface gráfica usando a biblioteca Tkinter.
 
